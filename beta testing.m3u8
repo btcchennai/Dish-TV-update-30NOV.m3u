@@ -1,36 +1,38 @@
 #EXTM3U
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244026aa35ef127c4d/index.m3u8?token=767da042bb9399e0281586c6505c80b649673276-07096e0e82b14181790454966b56d065-1666978584-1666956984&remote=172.104.238.29
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD 720p
-https://tsneh.vercel.app/hghhhhbkkh
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
+https://tsneh.vercel.app/star3denvery6yuy67ij
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat FHD
-https://tsneh.vercel.app/juhhygyujju
+https://tsneh.vercel.app/star3denvery6yuy6709
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244034ae21ee0c605629ce/index.m3u8?token=bcf19fd79d1ed023439134208159d8d8bac2ca08-1e904b6c0ce78a1d190e3ed6c84f0700-1666983894-1666962294&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD
-https://tsneh.vercel.app/huuhi7hj
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b049411dcba3aacca80cc9cb225e24b930fd1f624829d590d8/index.m3u8?token=8f553c0756de15b5e6a36f8aedef6ea0f06c67ac-e9a7579c9bed9d04ad0f36b5677158ce-1667308430-1667286830&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
-https://tsneh.vercel.app/ibiklihjklloj
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494104cbbca2d4bf16c2d9244020af2afd146b4125/index.m3u8?token=cdf07d2e1a3123089fa8c7271778b13519149b5e-e4cce8b7927a21884a3f446e49ffe6f2-1667308529-1667286929&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",Star Utsav HD
-https://tsneh.vercel.app/yygg8yy
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244023b233fd1b/index.m3u8?token=bdaa2eae47b3f52ddfe6a1b2da25ef47e0b7f71b-4f944485f4b65b3bd156d17958133963-1667308243-1667286643&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/QcWNzLt/download-2.jpg",Star Life HD
 https://tsneh.vercel.app/yygrtjnu
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/PNY41q7/440px-STAR-Movies-logo-svg.png",Star Movies
-http://185.93.1.84/a1f2d5a233fbde5b57d6e845dcae36e7f9b490be6870669f457bc698c80cf80f08074ba574a9832b06c14d4c0dde12e0fc09072a5d83de30f667233eecbbccc191e6b9888dc885cb72a7fd8de729a1859a3f726e790edd0ddc1acaae6ff59cf9670197/index.m3u8
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1Jrb0cg/SMSHD.png",Star Movies Select HD 4k
-https://tsneh.vercel.app/y7jokhuji
-#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/Gp8M3rL/STAR-World-svg.png",Star World
-http://starshare.live:8080/live/1039488736/88483817377/9385.ts
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/PNY41q7/440px-STAR-Movies-logo-svg.png",Star Movies HD
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/index.m3u8?token=c7ee9d20246705048b7bbca4bbdb08e2433095ea-e2470fe9a509d430a233a8e89b1a6735-1667308100-1667286500&remote=172.104.238.29
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1Jrb0cg/SMSHD.png",Star Movies Select HD
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/index.m3u8?token=6e6a3bf2c2d80e36fffa9d8e7d9f7fb3f05674d2-91c2aeb3de2ea20ad6606aae3c4ae6bf-1667308180-1667286580&remote=172.104.238.29
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/Gp8M3rL/STAR-World-svg.png",Star World HD
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b937f31f784d3ec29c/index.m3u8?token=e631edf56fa471a3c389d5fc4fbe498b32c89e12-b02f83b6ce71b2518812c37976c2b981-1667309751-1667288151&remote=172.104.238.29
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/XJDHxfq/images-22.jpg",Star World Premiere HD
+http://sansat.net:25461/live/02020044857390/02022528915114/93671.ts
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png",Star Jalsha HD
-https://tsneh.vercel.app/jhhaauaau
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494112cfbfacd9ac0cc9cb225e24b92afd01674120d590d8/index.m3u8?token=3d3d694ea37450d71156363e74e0ed2cb18f0e91-05f95f281fcc74dcc959d6fcdbd23b7b-1667310076-1667288476&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/GpkX4d5/Jalsha-Movies.png",Star Jalsha Movies HD
-https://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494112cfbfacd9ac0cc9cb225e24b92afd01674120d595d3b80b8fe1ddaeca/index.m3u8?token=9db8f14ff66fbc2b195aa16e2d0dfd9eb15173ec-4bdbbe085bf461b3677cb1c4b7121428-1667310132-1667288532&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://img.live4wap.xyz/images/t/jjZHqEbiRg.png",Star Maa Gold SD
-https://tsneh.vercel.app/ykoiugt468hu
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0565f02d5bc8af9bf02f9f412/index.m3u8?token=b3d72547e041f99ace0d8b6828a75c23c644976c-6fb17ca57f084c9c9fd703a2fdf382f4-1667307969-1667286369&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://img.live4wap.xyz/images/t/ZKrFjuvCol.png",Star Maa Movie HD
-https://tsneh.vercel.app/uhynihbbthinj
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103deb0b9c7ad04d7c73b5020af25ef127c4d/index.m3u8?token=4bf5f8aac08b01e6b673f42127737f3f7cb02a88-8e1b73f3b7cd952f583ea921e5db9ca4-1667308044-1667286444&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://img.live4wap.xyz/images/t/XCOkItPxdk.png",Star Maa HD
-https://tsneh.vercel.app/hiuvt66ghu7
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494104cfbdbedfb51ac5cc374d29ab21fd127c4d/index.m3u8?token=216125fba5dc6e20814ef43568306cf14a08c8d5-a92a2ca152f3c3c0ba909533fe8101de-1667310214-1667288614&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1 HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ed99dd0ab019eedb3b9c6d1/index.m3u8?token=6c75bc587b6d1d290070312ae91ce38ed63355c3-a2c29e970d05c891371b4f25a9589053-1666980358-1666958758&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2 HD
@@ -64,7 +66,9 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/DKq6TqR/images-2-1.png",Star Gold 2
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf81206/index.m3u8?token=7b8c238c4deab89683f02bfc589afebf750dda25-58ff1bda695edfcea7ce3919f26e2e1b-1666980459-1666958859&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf01dfcb385a2fb933f8/index.m3u8?token=29e9cbb120b1c61cc767135ba53f56c55abdfb52-d7603f522f067ff0b7e8dff1d02652fd-1666980655-1666959055&remote=172.104.238.29
+http://bandookk.xyz:8000/BJTECH/BJTECH/23559
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney 2
+https://tsneh.vercel.app/denverdisney2
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Tamil
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b049411bc3b5b8c7a40cc5d6334629af2ee808664720de91d3a00386edcaa2/index.m3u8?token=88f3113981f7ca4cfa0edff83d64c0a7d72b2ca8-8b0c4897eece16a5b4d4da1b446d132a-1666980932-1666959332&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",Discovery kids
@@ -74,8 +78,8 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b049411bc3b5b8c7a40cc5d
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf15d9df39403daf24ef/index.m3u8?token=d60e995a942d85510c1215493944d3a618892863-a5a8938eca85d6fdbb27ff59d9471fb4-1666981204-1666959604&remote=172.104.238.29
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
-https://tsneh.vercel.app/hungamabydenver
+http://bandookk.xyz:8000/BJTECH/BJTECH/23564
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama ( Tamil )
 https://tsneh.vercel.app/denverhumgama
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
-https://tsneh.vercel.app/denverhumgama2
+http://bandookk.xyz:8000/BJTECH/BJTECH/27990
