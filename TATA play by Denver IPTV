@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Flix HD
+http://223.29.231.66:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Pictures HD
+http://223.29.231.66:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Prive HD
+http://223.29.231.66:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And TV HD 
+http://223.29.231.66:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Animal Planet
+http://223.29.231.66:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",BIG MAGIC
+http://223.29.231.66:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Cartoon Network
+http://223.29.231.66:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors Cineplex HD
+http://223.29.231.66:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors HD
+http://223.29.231.66:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors Infinity HD
+http://223.29.231.66:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors Rishtey
+http://223.29.231.66:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Tata play",Discovery HD
+http://223.29.231.66:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Kids
+http://223.29.231.66:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Science
+http://223.29.231.66:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Turbo
+http://223.29.231.66:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Disney Junior
+http://223.29.231.66:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Disney
+http://223.29.231.66:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",EUROSPORT HD
+http://223.29.231.66:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",HISTORY TV18 HD
+http://223.29.231.66:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Hungama
+http://223.29.231.66:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",MTV HD
+http://223.29.231.66:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Tata play",MTV Beats HD
+http://223.29.231.66:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play", National Geographic HD
+http://223.29.231.66:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nat Geo Wild HD
+http://223.29.231.66:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick
+http://223.29.231.66:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick HD+
+http://223.29.231.66:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick Jr
+http://223.29.231.66:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.live4wap.xyz/images/t/nNvFnABIIx.png" group-title="Tata play",PUNJABI Movies
+http://223.29.231.66:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.live4wap.xyz/images/t/Fhabaduwwb.png" group-title="Tata play",PTC chakde
+http://223.29.231.66:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Pogo 
+http://223.29.231.66:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Romedy NOW
+http://223.29.231.66:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SET HD 
+http://223.29.231.66:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Shemaroo TV
+http://223.29.231.66:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Tata play",Sonic Hindi
+http://223.29.231.66:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY SAB HD
+http://223.29.231.66:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY BBC EARTH HD
+http://223.29.231.66:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY MAX HD
+http://223.29.231.66:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY MAX 2 
+http://223.29.231.66:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY PAL
+http://223.29.231.66:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY PIX HD
+http://223.29.231.66:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 1 HD
+http://223.29.231.66:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 2 HD
+http://223.29.231.66:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 3 HD
+http://223.29.231.66:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 4
+http://223.29.231.66:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Bharat HD
+http://223.29.231.66:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Gold Select HD
+http://223.29.231.66:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star GOLD HD 
+http://223.29.231.66:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Gold 2
+http://223.29.231.66:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",STAR MOVIES HD
+http://223.29.231.66:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Movie Select HD
+http://223.29.231.66:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Plus HD 
+http://223.29.231.66:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Tata play",Star Sports Select 1 HD
+http://223.29.231.66:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Tata play",Star Sports Select 2 HD
+http://223.29.231.66:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 1 HD
+http://223.29.231.66:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 1 Hindi HD
+http://223.29.231.66:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 2 HD
+http://223.29.231.66:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 3
+http://223.29.231.66:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star World Premiere HD
+http://223.29.231.66:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Super Hungama
+http://223.29.231.66:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",TLC HD
+http://223.29.231.66:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",UTV ACTION
+http://223.29.231.66:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Tata play",UTV Bindass
+http://223.29.231.66:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",UTV MOVIES
+http://223.29.231.66:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Voot music
+http://223.29.231.66:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE ANMOL
+http://223.29.231.66:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE BOLLYWOOD
+http://223.29.231.66:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE CINEMA HD
+http://223.29.231.66:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE Cafe HD 
+http://223.29.231.66:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE TV HD
+http://223.29.231.66:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE Anmol Cinema
+http://223.29.231.66:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Zoom 
+http://223.29.231.66:8000/play/a028/index.m3u8
