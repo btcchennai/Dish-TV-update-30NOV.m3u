@@ -7,7 +7,7 @@ http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862661&ex
 #EXTINFF:-1 tvg-id="1244" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a7c9985b00875dbe18c1b.jpg" group-title="Denver KIDS PACK",Hungama TV
 http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862674&extension=m3u8&play_token=VkCU30c2ku
 #EXTINFF:-1 tvg-id="1244" tvg-name="Super Hungama" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png" group-title="Denver KIDS PACK",Super Hungama
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862679&extension=ts&play_token=FAMoWEeJkw
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862679&extension=m3u8&play_token=FAMoWEeJkw
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Denver KIDS PACK",Nick Hindi
 https://tv.freeseries.eu.org/live.php?c=Nick_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Denver KIDS PACK",Nick Kannada
