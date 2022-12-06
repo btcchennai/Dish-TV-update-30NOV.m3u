@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
-#EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="DenverIPTV" tvg-logo="https://i.ibb.co/hYXCmKk/CC-20221130-165225.png",Denver IPTV
+#EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="DenverIPTV" tvg-logo="https://i.ibb.co/hYXCmKk/CC-20221130-165225.png",Zee Cinema HD
 https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 https://tv.freeseries.eu.org/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
